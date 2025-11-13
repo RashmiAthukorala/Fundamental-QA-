@@ -6,3 +6,6 @@ https://medium.com/@rashmiathukorala11/understanding-test-cases-test-plans-and-t
 
 03.The V-Model in Software Testing: A Simple Guide to Structured Quality
 https://medium.com/@rashmiathukorala11/the-v-model-in-software-testing-a-simple-guide-to-structured-quality-675e09c6f54c
+
+04.STLC
+https://medium.com/@rashmiathukorala11/the-software-testing-life-cycle-stlc-your-step-by-step-guide-to-quality-1d332b81358c
